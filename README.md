@@ -78,6 +78,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [A Quick-Start Tutorial on Relational Database Design](https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html) - Comprehensive tutorial
 - [Database Design Process](https://www.guru99.com/database-design.html) - Step-by-step guide
 - [Data Modeling 101](https://www.agiledata.org/essays/dataModeling101.html) - Introduction to data modeling
+- [Designing Tables for a New Feature](https://www.cheatgrid.com/checklists/backend-developer/designing-tables-for-a-new-feature) - Checklist for keys, constraints, indexes and relationships, with how to verify each check
 
 ## Core Concepts
 
